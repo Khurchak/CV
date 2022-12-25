@@ -41,10 +41,8 @@ skills:
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nosolore eu 
-  fugiat nulla pariatur.
+  Hardworking and experienced, strong and physically able technician expert
+  Fine motor skills and hand-eye coordination, good colour vision.
 
 # Experience
 experience:
@@ -81,7 +79,7 @@ projects:
   - title: Cool Project 
     link: #
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
 
   - title: Cool Project 
