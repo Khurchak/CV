@@ -1,29 +1,29 @@
 name: John Doe
-support_dark_mode: true
+support_dark_mode: falshe
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
+  email: infdffo@jofdffhndoe.com
   github: johndoe
-  linkedin: johndoe
+  linkedin: khurchak
   phone: 
   gitlab: 
   twitter: 
 
 languages:
   - idiom: English
+  - idiom: Ukranian
   - idiom: Russian
-  - idiom: French
 
 education:
   - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+    time: 1988-1993
+    university: Mariupol University
 
   - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+    time: 2022-2024
+    university: Letbridge College
 
 skills:
   - category: Backend
