@@ -4,8 +4,8 @@ fork: true
 
 # Sidebar
 contact:
-  email: infdffo@jofdffhndoe.com
-  github: johndoe
+  email: pavlo@khurchak.com
+  github: khurchak
   linkedin: khurchak
   phone: 
   gitlab: 
@@ -17,13 +17,13 @@ languages:
   - idiom: Russian
 
 education:
-  - degree: MSc in Informatics
-    time: 1988-1993
-    university: Mariupol University
+  - degree: ESL
+    time: 2022-
+    university: Lethbridge College, Canada
 
-  - degree: BSc in Computer Science
-    time: 2022-2024
-    university: Letbridge College
+  - degree: Financial accountant, BHSc
+    time: 1997-2001
+    university: College of Kharkiv management institution
 
 skills:
   - category: Backend
