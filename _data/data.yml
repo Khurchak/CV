@@ -21,9 +21,13 @@ education:
     time: 2022-
     university: Lethbridge College, Canada
 
-  - degree: Financial accountant, BHSc
-    time: 1997-2001
-    university: College of Kharkiv management institution
+  - degree: Automation, BHSc
+    time: 1988-1993
+    university: Mariupol University
+   
+  - degree: Finance, BHSc
+    time: 1988-1993
+    university: Mariupol University
 
 skills:
   - category: Backend
