@@ -1,4 +1,4 @@
-name: John Doe
+name: Pavlo Khurchak
 support_dark_mode: falshe
 fork: true
 
@@ -50,14 +50,14 @@ profile: |
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: CEO/Owner
+    time: 2003-2022
+    company: Companion ltd.
     details: |
-      Lorem i in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Make and menedgment technology company
+      Repair computer, printers, home automation systems.
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Electronic, Hassio, Yaml, more...
   
   - role: Researcher
     time: 2016-2020
