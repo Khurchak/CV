@@ -7,9 +7,9 @@ contact:
   email: pavlo@khurchak.com
   github: khurchak
   linkedin: khurchak
-  phone: 
-  gitlab: 
-  twitter: 
+  phone: +1 587.821.38.38
+  #gitlab: 
+  #twitter: 
 
 languages:
   - idiom: English
@@ -21,27 +21,23 @@ education:
     time: 2022-
     university: Lethbridge College, Canada
 
-  - degree: Automation, BHSc
-    time: 1988-1993
-    university: Mariupol University
-   
   - degree: Finance, BHSc
+    time: 1998-2001
+    university: Financical College
+   
+  - degree: Automation, BHSc
     time: 1988-1993
     university: Mariupol University
 
 skills:
-  - category: Backend
+  - category: Hard
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
+      - soldering
+      - Diagnostic
+  - category: Soft
     skill:
-      - React
+      - Communications
       - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
 
 # Profile
 profile: |
@@ -80,13 +76,13 @@ publications:
     conference: Some conference again, 2018
 
 projects:
-  - title: Cool Project 
+  - title: Companion ltd. (IT Comapny) 
     link: #
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
 
-  - title: Cool Project 
+  - title: Pansion Peschanka 
     link: #
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
