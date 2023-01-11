@@ -58,38 +58,34 @@ experience:
     technologies_used: | 
       Electronic, Hassio, Yaml, more...
   
-  - role: Researcher
+  - role: R
     time: 2016-2020
-    company: Microsoft
+    company: ft
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tur.
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
 
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
-
 projects:
   - title: Companion ltd. (IT Comapny) 
     link: #
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+      Founded and led a successful IT company, utilizing comprehensive market research and
+      analysis to inform strategic decision-making and drive business growth.
+      Achieved significant market share, ranking among the top three providers in the city.
+      Successfully secured a number of government contracts and established a client base of major utilities comprising 70% of the regional market.
 
   - title: Pansion Peschanka 
     link: #
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      I created and successfully implemented the project hotel for a summer holiday on the seashore.
+      Achieved a positive reputation and popularity of the property on the Internet.
+      Brought the hotel to the top of the search engines, and promoted the object's page on FB.
+      Achieved a rating of 9.4 on the specialized website Booking.com.
+      It reached the median occupancy of the hotel during the working season of 90-99%.
+      On the territory of the hotel, I developed, installed, and administered an automation system based on the home assistant server.
+
 
 # Volunteering
 volunteering:
