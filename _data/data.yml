@@ -53,28 +53,27 @@ experience:
     time: 2003-2022
     company: Companion ltd.
     details: |
-      Make and menedgment technology company
-      Repair computer, printers, home automation systems.
+      Founded and led a successful IT company, utilizing comprehensive market research and
+      analysis to inform strategic decision-making and drive business growth.
+      Achieved significant market share, ranking among the top three providers in the city.
+      Successfully secured a number of government contracts and established a client base of major utilities comprising 70% of the regional market.
+   
     technologies_used: | 
       Electronic, Hassio, Yaml, more...
   
-  - role: R
-    time: 2016-2020
-    company: ft
+  - role: Owner/Building operator
+    time: 2010-2022
+    company: Hotel "Pansion Peschanka"
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tur.
+      .
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      CEO, Home automation, Social Networking
 
 projects:
   - title: Companion ltd. (IT Comapny) 
     link: #
     details: |
-      Founded and led a successful IT company, utilizing comprehensive market research and
-      analysis to inform strategic decision-making and drive business growth.
-      Achieved significant market share, ranking among the top three providers in the city.
-      Successfully secured a number of government contracts and established a client base of major utilities comprising 70% of the regional market.
+      IT company, government contracts and established a client base of major utilities comprising 70% of the regional market.
 
   - title: Pansion Peschanka 
     link: #
